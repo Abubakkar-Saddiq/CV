@@ -1,0 +1,42 @@
+    .h1_1 {
+    color: white;
+    margin-top: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}   
+@media (max-width: 600px) {
+    .h2_1 {
+    font-size: 30px;
+    }
+}
+    h1 {
+        color: white;
+        font-family: 'Courier New', Courier, monospace;
+
+    } 
+    a:hover {
+        background-color: grey;
+      
+    }
+    body {
+    background-color: #28282B;
+    text-align: center;
+    background-image: ("./desktop-source-code-and-technology-background-developer-or-programer-with-coding-and-programming-wallpaper-by-computer-language-and-source-code-com-PF3PDR");
+    background-image: url("./dell_backlit_keyboard-wallpaper-3554x1999.jpg") } 
+ 
+    .ok {
+        margin-top: 200px;
+        color: white;
+    }
+    
+    .h2_1 {
+    color: white;
+    margin: 50px 30px 30px 30px;
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+    } 
+   .a_1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+   }
